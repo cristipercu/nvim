@@ -14,5 +14,5 @@ This directory contains my personal Neovim configuration files. It's designed to
 1. **Clone this repository** into your Neovim configuration directory:
 
    ```bash
-   git clone [https://github.com/](https://github.com/)/cristipercu/nvim ~/.config/nvim
+   git clone https://github.com/cristipercu/nvim ~/.config/nvim
 
