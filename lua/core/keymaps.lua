@@ -7,6 +7,8 @@ local keymap = vim.keymap
 keymap.set("n", "<leader>wq", ":wq<CR>") -- save and quit
 keymap.set("n", "<leader>qq", ":q!<CR>") -- quit without saving
 keymap.set("n", "<leader>ww", ":w<CR>") -- save
+keymap.set("n", "<leader>wa", ":wa<CR>") -- save
+keymap.set("n", "<leader>ms", ":!make sync<CR>") -- save
 keymap.set("n", "gx", ":!open <c-r><c-a><CR>") -- open URL under cursor
 
 -- Split window management
